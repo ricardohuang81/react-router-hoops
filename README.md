@@ -1,3 +1,5 @@
+# React App w/ React Routing: hoops application with fake teams, players, coaches, articles and content
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
